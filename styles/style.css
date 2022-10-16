@@ -134,6 +134,9 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin: 20px auto 0 auto;
+  text-align: center;
+  width: 60%;
 }
 
 .table__heading {
@@ -160,12 +163,6 @@
 .digits {
   margin: 0;
   padding: 0;
-}
-
-.section-subtitle {
-  margin: 20px auto 0 auto;
-  text-align: center;
-  width: 60%;
 }
 
 .table {
