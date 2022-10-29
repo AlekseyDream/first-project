@@ -1,6 +1,6 @@
 # first-project
 How to learn
-<h1 align="center">Приветствую, меня зовут <a href="https://t.me/https://t.me/alekseycheb" target="_blank">Алексей</a> 
+<h1 align="center">Приветствую, меня зовут <a href="https://t.me/alekseycheb" target="_blank">Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
